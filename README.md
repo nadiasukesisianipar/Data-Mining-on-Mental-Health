@@ -1,4 +1,4 @@
-#	Data Mining on Mental Health Data]
+#	Data Mining on Mental Health Data
 This is a group project for Data Mining and Business Intelligence course.
 
 * Dataset was given by the lecturer.
